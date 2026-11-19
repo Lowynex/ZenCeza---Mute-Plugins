@@ -1,0 +1,13 @@
+name: ZentoriaMute
+version: 1.0
+main: com.zentoria.mute.MutePlugin
+api-version: '1.21'
+commands:
+  ceza:
+    description: Oyuncuya süreli mute atar.
+    permission: zentoriamute.admin
+    usage: /ceza <oyuncu> <süre> <sebep>
+  unceza:
+    description: Oyuncunun mutesini kaldırır.
+    permission: zentoriamute.admin
+    usage: /unceza <oyuncu>

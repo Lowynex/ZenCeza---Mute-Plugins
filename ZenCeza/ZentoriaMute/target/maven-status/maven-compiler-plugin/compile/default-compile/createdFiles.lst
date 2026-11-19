@@ -1,0 +1,5 @@
+com\zentoria\mute\commands\CezaCommand.class
+com\zentoria\mute\MutePlugin.class
+com\zentoria\mute\MuteManager.class
+com\zentoria\mute\listeners\ChatListener.class
+com\zentoria\mute\commands\UncezaCommand.class
